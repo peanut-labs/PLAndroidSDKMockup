@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_cancel.png",
+        "source": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/src/main/res/drawable-hdpi/ic_action_cancel.png"
+    },
+    {
+        "merged": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_back_arrow.png",
+        "source": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/src/main/res/drawable-hdpi/ic_action_back_arrow.png"
+    },
+    {
+        "merged": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_close.png",
+        "source": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/src/main/res/drawable-hdpi/ic_action_close.png"
+    },
+    {
+        "merged": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_previous_item.png",
+        "source": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/src/main/res/drawable-hdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_next_item.png",
+        "source": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/src/main/res/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_accept.png",
+        "source": "/Users/yleou-on/AndroidStudioProjects/RC/pLSDK/src/main/res/drawable-hdpi/ic_action_accept.png"
+    }
+]
